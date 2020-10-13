@@ -1,0 +1,23 @@
+.bgcolo{
+    background-color: rgb(84, 105, 124);
+}
+.bgcolo1{
+    background-color: rgb(98, 123, 146);
+}
+.colormn{
+    background-color: aliceblue;
+}
+.logo{
+    width: 40px;
+    height: 40px;
+    border-radius: 100%;
+}
+.minh{
+    min-height: 660px;
+    color: aliceblue;
+}
+a{
+    font-size: 1.5em;
+    color: aquamarine;
+}
+
